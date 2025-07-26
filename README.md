@@ -1,3 +1,3 @@
-# Medical Diagnosis Toole
-<!-- ![imag](Output.png) -->
+# Medical Diagnosis Tools
+![imag](Output.png)
 # Radiology App
